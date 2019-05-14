@@ -1,4 +1,4 @@
-package entities;
+package com.srikar.rest.client.reqres.entities;
 
 import java.util.List;
 

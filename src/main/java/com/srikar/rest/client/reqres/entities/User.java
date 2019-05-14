@@ -1,6 +1,4 @@
-package entities;
-
-import java.util.Date;
+package com.srikar.rest.client.reqres.entities;
 
 public class User {
     private int id;

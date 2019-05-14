@@ -1,8 +1,7 @@
 package com.srikar.rest.client.reqres;
 
-import client.ReqresClient;
-import client.ReqresClientImpl;
-import entities.User;
+import com.srikar.rest.client.reqres.client.ReqresClient;
+import com.srikar.rest.client.reqres.client.ReqresClientImpl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

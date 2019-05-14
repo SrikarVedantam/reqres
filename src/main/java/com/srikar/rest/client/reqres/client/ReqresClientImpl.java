@@ -1,9 +1,6 @@
-package client;
+package com.srikar.rest.client.reqres.client;
 
-import entities.User;
-import entities.UserPage;
-import entities.UserWrapper;
-import org.springframework.core.ParameterizedTypeReference;
+import com.srikar.rest.client.reqres.entities.*;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;

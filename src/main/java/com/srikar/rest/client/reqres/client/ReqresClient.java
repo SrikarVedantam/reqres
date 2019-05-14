@@ -1,8 +1,6 @@
-package client;
+package com.srikar.rest.client.reqres.client;
 
-import entities.User;
-import entities.UserWrapper;
-
+import com.srikar.rest.client.reqres.entities.*;
 import java.util.List;
 
 public interface ReqresClient {
